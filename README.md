@@ -9,3 +9,5 @@ Para rodar a app react na sua maquina é so baixar e aceder a pasta em seguinda 
 <code>npm run dev</code>
 
 E já está é só fazer alterações e quem sabe abrir um pull request.
+
+Caso não tenha assistido é so clicar [aqui](https://www.youtube.com/watch?v=AkbCwLz4_yw) para ver no Youtube!
